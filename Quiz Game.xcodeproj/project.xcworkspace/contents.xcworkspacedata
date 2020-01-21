@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:New View"
+      name = "New View">
+      <Group
+         location = "group:Model"
+         name = "Model">
+         <FileRef
+            location = "group:NewClassModel.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Flow Controller"
+         name = "Flow Controller">
+         <FileRef
+            location = "group:NewClassFlowController.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:View"
+         name = "View">
+         <FileRef
+            location = "group:NewClass.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:NewClassViewController.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:View Model"
+         name = "View Model">
+         <FileRef
+            location = "group:NewClassViewModel.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Factory"
+         name = "Factory">
+         <FileRef
+            location = "group:NewClassFactory.swift">
+         </FileRef>
+      </Group>
+   </Group>
    <FileRef
-      location = "self:Quiz Game.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
